@@ -1,2 +1,7 @@
-# udacity_repo
-course repo: Udacity MLE DevOps Nanodegree
+# UDACITY REPO
+
+Udacity MLE DevOps Nanodegree
+
+## Clean Code Principles
+
+## Version Control
